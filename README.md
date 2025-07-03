@@ -12,10 +12,3 @@ Este repositório contém três projetos que exemplificam o uso de APIs REST usa
 
 - **mocked-crud-with-request-body**  
   Projeto que simula um CRUD (Create, Read, Update, Delete) usando requisições com corpo (`request body`).
-
-## Estrutura de pastas
-rest-with-spring-boot-and-java/
-│
-├── greeting-endpoint/
-├── math-operations-with-exception-handling/
-└── mocked-crud-with-request-body/
